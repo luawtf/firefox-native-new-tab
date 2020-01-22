@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+
+	"name": "Native New Tab",
+	"version": "1.0.0",
+	"description": "Replaces the new tab with a completely blank page in the native background color or theme background color depending on \"chrome://global/skin/in-content/common.css\".",
+
+	"author": "Lua MacDougall <luawhat@gmail.com> (https://lua.wtf/)",
+	"homepage_url": "https://github.com/luawtf/firefox-native-new-tab",
+
+	"applications": {
+		"gecko": {
+			"id": "native-new-tab@lua.wtf",
+			"strict_min_version": "54.0"
+		}
+	},
+
+	"icons": {},
+
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}

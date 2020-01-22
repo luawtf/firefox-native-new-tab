@@ -1,0 +1,1 @@
+# firefox-native-new-tab
