@@ -10,6 +10,13 @@ Replaces the new tab with a completely blank page in the native background color
 ### Comparison to other Firefox menus
 ![Comparison](screens/comp.png)
 
+## Building
+On a UNIX system with a shell environment `env` + `sh`-like and the `zip` utility run:
+```sh
+./build.sh
+```
+To build a `firefox-native-new-tab.zip` package.
+
 ## Authors
 Made with ❤ by Lua MacDougall ([lua.wtf](https://lua.wtf/))
 
