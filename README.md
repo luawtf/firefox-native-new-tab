@@ -9,6 +9,8 @@ Also the whole *"not respecting the Default theme"* is actually a bug! Bugzilla 
 
 Download here: [https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/](https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/) (once its public)
 
+Font in the logo is the wonderful [Sans Forgetica](https://sansforgetica.rmit/).
+
 ## Screenshots
 ### Before
 ![Before screenshot](screens/before.png)
