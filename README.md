@@ -1,6 +1,13 @@
 ![Native New Tab logo](logo128.png)
 # Native New Tab for Firefox
-Replaces the new tab with a completely blank page in the native background color or theme background color depending on [chrome://global/skin/in-content/common.css](chrome://global/skin/in-content/common.css).
+*Eyes burning when you open about:blank?*
+
+Firefox's new tab and homepage don't respect the "Default" theme background color unlike all other internal Firefox pages. This addon aims to rectify that by providing a new tab that uses the internal "common.css" file to style itself. (like everything else)
+
+Also the whole *"not respecting the Default theme"* is actually a bug! Bugzilla tracker:
+[https://bugzilla.mozilla.org/show_bug.cgi?id=1546540](https://bugzilla.mozilla.org/show_bug.cgi?id=1546540)
+
+Download here: [https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/](https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/) (once its public)
 
 ## Screenshots
 ### Before
