@@ -15,7 +15,13 @@
 		}
 	},
 
-	"icons": {},
+	"icons": {
+		"16": "logo.svg",
+		"48": "logo48.png",
+		"96": "logo.svg",
+		"128": "logo128.png",
+		"256": "logo.svg"
+	},
 
 	"chrome_url_overrides": {
 		"newtab": "index.html"

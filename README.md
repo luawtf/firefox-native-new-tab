@@ -1,1 +1,1 @@
-# firefox-native-new-tab
+# Native New Tab for Firefox
