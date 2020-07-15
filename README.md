@@ -7,7 +7,7 @@ Firefox's new tab and homepage don't respect the "Default" theme background colo
 Also the whole *"not respecting the Default theme"* is actually a bug! Bugzilla tracker:
 [https://bugzilla.mozilla.org/show_bug.cgi?id=1546540](https://bugzilla.mozilla.org/show_bug.cgi?id=1546540)
 
-Download here: [https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/](https://addons.mozilla.org/en-US/firefox/addon/native-new-tab/)
+Download here: [https://addons.mozilla.org/firefox/addon/native-new-tab](https://addons.mozilla.org/firefox/addon/native-new-tab)
 
 Font in the logo is the wonderful [Sans Forgetica](https://sansforgetica.rmit/).
 
